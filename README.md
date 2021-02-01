@@ -1,1 +1,1 @@
-# vlsi-lab-mini-project
+# 8-bit Arithmetic Logic Unit
